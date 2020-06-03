@@ -1,0 +1,7 @@
+This is a trick question. It is not a deletion question.
+
+In this line *node = *node->next;
+It means that we are assigning node's val and next varaible the values of next node's val and next values in the same line
+
+For more reference - 
+https://leetcode.com/problems/delete-node-in-a-linked-list/discuss/65455/1-3-lines-C%2B%2BJavaPythonCCJavaScriptRuby
