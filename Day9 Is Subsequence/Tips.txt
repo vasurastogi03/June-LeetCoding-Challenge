@@ -1,0 +1,3 @@
+The Soltion.cpp doesn't answer the follow up question.
+
+It just goes through each character of 't' string and compares it with each character of 's' string. If pointer of 's' reaches length of 's' then true is returned else false.
