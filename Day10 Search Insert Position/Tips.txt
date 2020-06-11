@@ -1,0 +1,1 @@
+If there are duplicate elements equal to target, then the code will always return the one with smallest index.
