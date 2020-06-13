@@ -1,0 +1,1 @@
+Use an unordered_map to track positions of numbers within the set so that they can be accessed or their presence can be assessed in O(1) time. For insertions, just add to the array and record position in the map; for removals, swap the target element with the last element, update position of the former last element and pop the array's back.
