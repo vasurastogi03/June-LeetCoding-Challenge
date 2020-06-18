@@ -1,0 +1,13 @@
+First, check the four border of the matrix. If there is a element is
+'O', alter it and all its neighbor 'O' elements to '1'.
+
+Then ,alter all the 'O' to 'X'
+
+At last,alter all the '1' to 'O'
+
+For example:
+
+         X X X X           X X X X             X X X X
+         X X O X  ->       X X O X    ->       X X X X
+         X O X X           X 1 X X             X O X X
+         X O X X           X 1 X X             X O X X
