@@ -1,0 +1,2 @@
+Rabin-Karp's algorihm can be implemented in C++17 simply with std::unordered_set<std::string_view>.
+std::string_view does not copy the whole string and std::unordered_set handles the logic of hashing and comparing std::string_view's.
