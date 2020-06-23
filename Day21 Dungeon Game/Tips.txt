@@ -1,0 +1,3 @@
+Use hp[i][j] to store the min hp needed at position (i, j), then do the calculation from right-bottom to left-up.
+
+Note: adding dummy row and column would make the code cleaner.
